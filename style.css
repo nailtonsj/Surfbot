@@ -1,0 +1,34 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  font-family: "Alice", serif;
+  font-family: "Nunito", sans-serif;
+}
+:root {
+  --primary-l: #269bff;
+  --primary-n: #18e;
+  --primary-d: #0467cc;
+  --secondary-l: #ff3726;
+  --secondary-n: #e21;
+  --secondary-d: #d91504;
+  --light-l: #eff4f9;
+  --light-n: #bcd;
+  --light-d: #9ab;
+  --dark-l: #678;
+  --dark-n: #456;
+  --dark-d: #17222d;
+}
+ul {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+  display: inline-block;
+  color: inherit;
+}
+img {
+  max-width: 100%;
+  display: block;
+}
